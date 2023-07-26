@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the .
+*/
+/* 
+    Created on : Jun 2, 2023, 2:04:28 PM
+    Author     : TIVANI
+*/
+
+h1
+{
+    text-align: center;
+    color: skyblue;
+}
+h2
+{
+    text-align: center;
+    color: skyblue;  
+    size: 20px;
+    font-style: oblique;
+}
+table
+{
+    margin-left: 10px;
+}
